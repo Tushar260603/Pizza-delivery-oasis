@@ -1,0 +1,11 @@
+.dess{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.dessr{
+    padding-right: 5%;
+}
